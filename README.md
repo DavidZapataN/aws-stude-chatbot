@@ -1,5 +1,3 @@
-# aws-stude-chatbot
-Serverless 3-Tier Architecture Chatbot with Amazon Bedrock, S3 Vectors, DynamoDB, API Gateway, Lambda, and Cognito.
 # 🤖 AWS Study Chatbot (Serverless 3-Tier Architecture)
 
 Este proyecto implementa un **chatbot de estudio para certificaciones AWS**, diseñado con una **arquitectura 3-Tier serverless**, de bajo costo y fácil de mantener.  
